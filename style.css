@@ -1,0 +1,28 @@
+#disp div{display:inline-block;padding:0;margin:0;border:none;}
+#disp div.color_0{background-color:#000;}
+#disp div.color_1{background-color:#00f;}
+#disp div.color_2{background-color:#0f0;}
+#disp div.color_3{background-color:#0ff;}
+#disp div.color_4{background-color:#f00;}
+#disp div.color_5{background-color:#f0f;}
+#disp div.color_6{background-color:#ff0;}
+#disp div.color_7{background-color:#fff;}
+
+body{padding:10px 20px;}
+form textarea{
+  display:block;
+  margin: 10px 0;
+  padding:5px;
+  width:640px;
+  border:1px solid #333;
+}
+form span{
+  display:inline-block;
+  width:100px;
+  text-align:center;
+  text-decoration:none;
+  color:#000;
+  border:1px solid #333;
+  padding: 5px 10px;
+  cursor: pointer;
+}
